@@ -328,3 +328,4 @@
 - Liam Konidaris
 - Bilal Gamal
 - Tomer
+- Sean Kross
